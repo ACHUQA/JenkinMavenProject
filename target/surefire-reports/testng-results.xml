@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="87" started-at="2022-08-18T19:05:43 IST" finished-at="2022-08-18T19:05:43 IST">
+  <suite name="Suite" duration-ms="122" started-at="2022-08-18T21:34:22 IST" finished-at="2022-08-18T21:34:22 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="87" started-at="2022-08-18T19:05:43 IST" finished-at="2022-08-18T19:05:43 IST">
-      <class name="com.tests.TestClass1">
-        <test-method status="PASS" signature="tc2()[pri:0, instance:com.tests.TestClass1@2758fe70]" name="tc2" duration-ms="12" started-at="2022-08-18T19:05:43 IST" finished-at="2022-08-18T19:05:43 IST">
+    <test name="Test" duration-ms="122" started-at="2022-08-18T21:34:22 IST" finished-at="2022-08-18T21:34:22 IST">
+      <class name="com.tests.TestClass">
+        <test-method status="PASS" signature="tc()[pri:0, instance:com.tests.TestClass@2758fe70]" name="tc" duration-ms="12" started-at="2022-08-18T21:34:22 IST" finished-at="2022-08-18T21:34:22 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- tc2 -->
-      </class> <!-- com.tests.TestClass1 -->
+        </test-method> <!-- tc -->
+      </class> <!-- com.tests.TestClass -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

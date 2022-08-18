@@ -8,6 +8,7 @@ public class TestClass {
 	{
 		System.out.println("First commit ....");
 		System.out.println("Test class method");
+		System.out.println("Second commit ....");
 	}
 
 }
